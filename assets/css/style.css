@@ -1,0 +1,35 @@
+/**
+* @package menuiconset
+* @version 1.0.0
+* @author RainaStudio
+*
+*/
+
+.has-des-or-icon {
+    position: relative !important;
+}
+
+.has-des-or-icon > a {
+    padding: 1em 1em 1em 4em !important;
+    font-size: 105% !important;
+    font-weight: bold !important;
+    line-height: 1 !important;
+}
+
+.has-des-or-icon .menu-item-description {
+    font-size: initial;
+    font-weight: initial;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.has-des-or-icon .icon-img-wrap {
+    width: 32px;
+    height: 32px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 1em;
+    bottom: 0;
+}
